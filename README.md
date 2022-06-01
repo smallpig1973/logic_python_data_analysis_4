@@ -61,6 +61,8 @@ Python实际针对数据分析的学习是库，用库来解决一系列的数�
 第二十六讲 - 金融量化4
 
 
+下载地址：https://cowcowit.com/course/38/Python-shu-ju-fen-xi-ban
+
 
 <img width="738" alt="iShot_2022-06-02_03 44 00" src="https://user-images.githubusercontent.com/91378327/171492002-fa3f57d2-dd80-4830-b276-51b0810864e2.png">
 <img width="730" alt="iShot_2022-06-02_03 44 13" src="https://user-images.githubusercontent.com/91378327/171492009-7dd5fff0-973f-4afe-92ef-63cdda6d1197.png">
